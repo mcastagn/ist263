@@ -1,0 +1,9 @@
+p, ul, a {
+    color:tomato;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration:underline;
+}
+/*decendant selector*/
+p a {color:chartreuse;}
+#firstparagraph {color:blue;}
+.pinktext {color:pink}
