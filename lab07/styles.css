@@ -1,12 +1,12 @@
 body {background-color: #ffffff;}
 p {color: #555555;}
 ul {color: #555555;}
-h1 {color:deepskyblue;}
-h2 {color:deepskyblue;}
-h3 {color:deepskyblue;}
-nav:hover {color:deepskyblue;}
+h1 {color: #00eeff;}
+h2 {color:#00eeff;}
+h3 {color: #00eeff;}
+nav:hover {color:#00eeff;}
 caption {color: #555555;}
-th {color: deepskyblue;}
+th {color: #00eeff;}
 tr {color: #000000;}
 a:hover {color: #ffe100}
 .evenrow {background-color: lightgrey;}
@@ -14,9 +14,9 @@ form {color:#555555;}
 .sub:hover {color: #ffe100;}
 .rad:hover {color: #ffe100;}
 .nv:hover {color: #ffe100;}
-nav a {color: deepskyblue;}
+nav a {color: #00eeff;}
 nav {background-color: #555555;}
-nav a:hover {background-color: deepskyblue}
+nav a:hover {background-color: #00eeff}
 nav {padding: 10px;}
 nav {margin-bottom: 30px;}
 a {color: yellow}
