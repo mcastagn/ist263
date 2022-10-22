@@ -3,7 +3,7 @@ p {color: #555555;}
 ul {color: #555555;}
 h1 {color: #00eeff;}
 h2 {color:#00eeff;}
-h3 {color: #00eeff;}
+h3 {color: #555555;}
 nav:hover {color:#00eeff;}
 caption {color: #555555;}
 th {color: #00eeff;}
@@ -23,11 +23,12 @@ a {color: yellow}
 .foot {float: right;}
 .foot1 {float: left;}
 .a1 {display: flex;}
-.address {float: left;}
-.contactlinks {float: right; }
-.a1 {background-color: #ffffff; border-radius: 1em; padding: 10px;}
-.a2 {display: flex;;}
-.form1 {float:left;}
-.map {float:right;}
+.address {flex:1;}
+.contactlinks {flex:1; }
+.a1 {background-color: #ffffff; border-radius: 1em;}
+.a2 {display: flex;}
+.form1 {flex:1;}
+.map {flex:1;}
 .a2 {background-color:#ffffff; border-radius: 1em; padding: 10px;}
 .contact {background-color: #555555;}
+
