@@ -1,0 +1,33 @@
+body {background-color: #ffffff;}
+p {color: #555555;}
+ul {color: #555555;}
+h1 {color: #00eeff;}
+h2 {color:#00eeff;}
+h3 {color: #00eeff;}
+nav:hover {color:#00eeff;}
+caption {color: #555555;}
+th {color: #00eeff;}
+tr {color: #000000;}
+a:hover {color: #ffe100}
+.evenrow {background-color: lightgrey;}
+form {color:#555555;}
+.sub:hover {color: #ffe100;}
+.rad:hover {color: #ffe100;}
+.nv:hover {color: #ffe100;}
+nav a {color: #00eeff;}
+nav {background-color: #555555;}
+nav a:hover {background-color: #00eeff}
+nav {padding: 10px;}
+nav {margin-bottom: 30px;}
+a {color: yellow}
+.foot {float: right;}
+.foot1 {float: left;}
+.a1 {display: flex;}
+.address {float: left;}
+.contactlinks {float: right; }
+.a1 {background-color: #ffffff; border-radius: 1em; padding: 10px;}
+.a2 {display: flex;;}
+.form1 {float:left;}
+.map {float:right;}
+.a2 {background-color:#ffffff; border-radius: 1em; padding: 10px;}
+.contact {background-color: #555555;}
