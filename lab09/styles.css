@@ -34,15 +34,20 @@ a {color: yellow}
 .pageheading {display: flex;
               justify-content: center;}
 .row1 {display:flex;
-       flex-basis: 75%;}
-.otherskills {display:flex;
+       flex:3;}
+.otherskills {
               background-color: #555555;
               color:#ffffff;
               border-radius: 1em;
               padding: 1em;
-            flex-basis:25%;}
+              flex:1;}
 .parenttag1 {display:flex;
-             justify-content:space-between}
-.otherskillstitle {color: #00eeff;}
+             justify-content:space-between;
+             margin: 10px;}
+.otherskillstitle {color: #00eeff;
+                   float:inline-start;
+                    padding-right:5px;}
 .intro1 {display: flex;
-    justify-content: center;}
+    width:75%;
+    padding-left:40px;}
+.icon1, .icon2, .icon3, .icon4, .icon5 {padding: 2em;}
