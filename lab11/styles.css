@@ -24,6 +24,7 @@ a {color: #c74600}
 .foot1 {float: left;}
 .a1 {display: flex;}
 .address {flex:1;}
+.addressscript {color:#555555}
 .contactlinks {flex:1; }
 .a1 {background-color: #ffffff; border-radius: 1em;}
 .a2 {display: flex;}
