@@ -19,7 +19,7 @@ nav {background-color: #555555;}
 nav a:hover {background-color: #00eeff}
 nav {padding: 10px;}
 nav {margin-bottom: 30px;}
-a {color: yellow}
+a {color: #c74600}
 .foot {float: right;}
 .foot1 {float: left;}
 .a1 {display: flex;}
@@ -32,7 +32,9 @@ a {color: yellow}
 .a2 {background-color:#ffffff; border-radius: 1em; padding: 10px;}
 .contact {background-color: #555555;}
 .pageheading {display: flex;
-              justify-content: center;}
+              justify-content: center;
+              background-color:#555555;
+              border-radius:1em;}
 .row1 {display:flex;
        flex:3;}
 .otherskills {
@@ -63,4 +65,7 @@ a {color: yellow}
     position: absolute; /*out of page flow for layout*/
     left: -999px; }
 .skip:focus {left:10px;
-             top:30px;}                                                                                         
+             top:30px;}     
+.indextitles {background-color: #555555;
+              border-radius: 1em;
+              padding-left:5px;}                                                                                    
