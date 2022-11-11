@@ -57,4 +57,10 @@ a {color: yellow}
                                                  display:block;
                                                  margin:5px;}
                                            .nopipe{display:none;}}      
-                      
+.skip {background-color:#555555;
+    border: 1px solid #00eeff;
+    padding: 2px;
+    position: absolute; /*out of page flow for layout*/
+    left: -999px; }
+.skip:focus {left:10px;
+             top:30px;}                                                                                         
