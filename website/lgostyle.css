@@ -1,0 +1,9 @@
+h1, h2, h3 {color: #00e600dd}
+p {margin-left: 10px; margin-right:10px;}
+ul {margin-left:-15px;}
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#navi {display:flex; justify-content:space-around; background-color: #00e600dd; padding:1em;}
+.nv {color:#ffffff; font-size:x-large; }
+.nv:hover {color:green}
+a {color:#00e600dd;}
+a:hover {color:green;}
