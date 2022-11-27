@@ -11,4 +11,5 @@ a:hover {color:green;}
              border-width: 2px;
              border-color: #00e600dd;}
 .logohead, .titlehead {flex:wrap;}
+#tagline {font-size:medium;}
 @media only screen and (max-width: 500px) {body #title{font-size: small;}#tagline{font-size: smaller;}}
