@@ -7,3 +7,7 @@ body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
 .nv:hover {color:green}
 a {color:#00e600dd;}
 a:hover {color:green;}
+.parenthead {display:flex;
+             border-width: 2px;
+             border-color: #00e600dd;}
+.logohead, .titlehead {flex:wrap;}
