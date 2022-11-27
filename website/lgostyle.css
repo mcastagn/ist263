@@ -13,3 +13,11 @@ a:hover {color:green;}
 .logohead, .titlehead {flex:wrap;}
 #tagline {font-size:medium;}
 @media only screen and (max-width: 500px) {body #title{font-size: small;}#tagline{font-size: smaller;}}
+#skip {background-color:#00e600dd;
+    border: 1px solid #000000;
+    padding: 2px;
+    position: absolute; /*out of page flow for layout*/
+    left: -999px; 
+    color:#ffffff;}
+#skip:focus {left:10px;
+             top:30px;}
