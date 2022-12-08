@@ -12,7 +12,7 @@ a:hover {color:green;}
              border-color: #00e600dd;}
 .logohead, .titlehead {flex:wrap;}
 #tagline {font-size:medium;}
-@media only screen and (max-width: 500px) {body #title{font-size: small;}#tagline{font-size: smaller;}}
+@media only screen and (max-width: 500px) {body #title{font-size: small;}#tagline{font-size: smaller;}.nv{font-size: smaller;}}
 #skip {background-color:#00e600dd;
     border: 1px solid #000000;
     padding: 2px;
