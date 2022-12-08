@@ -1,6 +1,9 @@
-h1, h2, h3 {color: #00e600dd}
-p {margin-left: 10px; margin-right:10px;}
-ul {margin-left:-15px;}
+h1, h2, h3 {color: #00e600dd;font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik', sans-serif;}
+p {margin-left: 10px; margin-right:10px; font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik', sans-serif;}
+ul {margin-left:-15px;font-family: 'Montserrat', sans-serif;
+    font-family: 'Rubik', sans-serif;}
 body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
 #navi {display:flex; justify-content:space-around; background-color: #00e600dd; padding:1em;}
 .nv {color:#ffffff; font-size:x-large; }
@@ -21,3 +24,4 @@ a:hover {color:green;}
     color:#ffffff;}
 #skip:focus {left:10px;
              top:30px;}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Rubik&display=swap');
