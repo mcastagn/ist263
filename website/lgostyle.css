@@ -10,7 +10,6 @@ body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
 .nv:hover {color:green}
 a {color:#00e600dd;}
 a:hover {color:green;}
-#renexamples{color:#ffffff; text-align: center;}
 .parenthead {display:flex;
              border-width: 2px;
              border-color: #00e600dd;}
@@ -28,9 +27,13 @@ a:hover {color:green;}
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Rubik&display=swap');
 footer {background-color: #00e600dd;}
 #parent1 {display:flex;flex-wrap:wrap;}
-#aip {flex:1; word-wrap: normal ;}
+#aip {flex:1; word-wrap: wrap;}
 #thumbnails {Flex:1; padding-top:10px; margin:auto;}
 #slideshow {flex:1; padding: 10px; background-color: #00e600dd; border-radius: 1em;}
+#slideimages {max-width:50%;}
 #bath, #show, #kitch, #ram {display:none; margin:0 auto;}
-@media only screen and (min-width: 500px) {body #slideimagesS{display:none;}}
-@media only screen and (max-width: 500px) {body #slideshow {width:250px;} #slideimagesL{display:none;}}
+@media only screen and (max-width:530px) {body #slideshow {display:block;}}
+main {word-wrap: break-word;}
+ th, td{border: 2px solid #00e600dd; border-radius:0.5em; text-align: center;}
+ table {border: 4px solid #00e600dd; margin:0 auto;}
+ caption {color:#00e600dd;}
