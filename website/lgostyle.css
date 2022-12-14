@@ -25,3 +25,10 @@ a:hover {color:green;}
 #skip:focus {left:10px;
              top:30px;}
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Rubik&display=swap');
+footer {background-color: #00e600dd;}
+#parent1 {display:flex;}
+#aip {flex:flex;}
+#thumbnails {margin: auto; padding-top:10px;}
+#slideshow {flex:flex; padding: 10px; background-color: #00e600dd; border-radius: 1em;}
+#bath, #show, #kitch, #ram {display:none; margin:0 auto;}
+#parent2 {flex:wrap;}
