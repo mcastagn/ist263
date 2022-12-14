@@ -15,7 +15,7 @@ a:hover {color:green;}
              border-color: #00e600dd;}
 .logohead, .titlehead {flex:wrap;}
 #tagline {font-size:medium;}
-@media only screen and (max-width: 500px) {body #title{font-size: small;}#tagline{font-size: smaller;}.nv{font-size: smaller;}}
+@media only screen and (max-width: 500px) {body .abouttext{margin-left:5%; margin-right:5%;} #title{font-size: small;}#tagline{font-size: smaller;}.nv{font-size: smaller;}}
 #skip {background-color:#00e600dd;
     border: 1px solid #000000;
     padding: 2px;
@@ -39,7 +39,10 @@ main {word-wrap: break-word;}
  caption {color:#00e600dd; font-size: larger;}
  .tabletitle {text-align: center;}
  #aboutuscontent {text-align: center;}
- .abouttext {margin-left:30%; margin-right:30%;}
+ .abouttext {margin-left:20%; margin-right:20%;}
  #abouttitle {font-size: large;}
  #stairT:hover{color:green;}
 #rentitle{color: #ffffff; text-align: center;}
+footer {text-align: center;}
+.foot {color:#ffffff}
+#llc {color:#ffffff}
