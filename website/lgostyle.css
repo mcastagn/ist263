@@ -1,22 +1,22 @@
-h1, h2, h3 {color: #00e600dd;font-family: 'Montserrat', sans-serif;
+h1, h2, h3 {color: #01af01;font-family: 'Montserrat', sans-serif;
     font-family: 'Rubik', sans-serif;}
 p {margin-left: 10px; margin-right:10px; font-family: 'Montserrat', sans-serif;
     font-family: 'Rubik', sans-serif;}
 ul {margin-left:-15px;font-family: 'Montserrat', sans-serif;
     font-family: 'Rubik', sans-serif;}
 body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
-#navi {display:flex; justify-content:space-around; background-color: #00e600dd; padding:1em;}
+#navi {display:flex; justify-content:space-around; background-color: #01af01; padding:1em;}
 .nv {color:#ffffff; font-size:x-large; }
-.nv:hover {color:green}
+.nv:hover {color:#00e600dd}
 a {color:#00e600dd;}
-a:hover {color:green;}
+a:hover {color:#00e600dd;}
 .parenthead {display:flex;
              border-width: 2px;
-             border-color: #00e600dd;}
+             border-color: #01af01;}
 .logohead, .titlehead {flex:wrap;}
 #tagline {font-size:medium;}
 @media only screen and (max-width: 500px) {body .abouttext{margin-left:5%; margin-right:5%;} #title{font-size: small;}#tagline{font-size: smaller;}.nv{font-size: smaller;}}
-#skip {background-color:#00e600dd;
+#skip {background-color:#01af01;
     border: 1px solid #000000;
     padding: 2px;
     position: absolute; /*out of page flow for layout*/
@@ -25,18 +25,18 @@ a:hover {color:green;}
 #skip:focus {left:10px;
              top:30px;}
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Rubik&display=swap');
-footer {background-color: #00e600dd;}
+footer {background-color: #01af01;}
 #parent1 {display:flex;flex-wrap:wrap;}
 #aip {flex:1; word-wrap: wrap;}
 #thumbnails {Flex:1; padding-top:10px; margin:auto;}
-#slideshow {flex:1; padding: 10px; background-color: #00e600dd; border-radius: 1em;}
+#slideshow {flex:1; padding: 10px; background-color: #01af01; border-radius: 1em;}
 #slideimages {max-width:50%;}
 #bath, #show, #kitch, #ram {display:none; margin:0 auto;}
 @media only screen and (max-width:530px) {body #slideshow {display:block;}}
 main {word-wrap: break-word;}
- th, td{border: 2px solid #00e600dd; border-radius:0.5em; text-align: center; background-color: #ffffff;}
- table {border: 4px solid #00e600dd; margin:0 auto; background-color: #ffffff;}
- caption {color:#00e600dd; font-size: larger;}
+ th, td{border: 2px solid #01af01; border-radius:0.5em; text-align: center; background-color: #ffffff;}
+ table {border: 4px solid #01af01; margin:0 auto; background-color: #ffffff;}
+ caption {color:#01af01; font-size: larger; border:2px solid #01af01;}
  .tabletitle {text-align: center;}
  #aboutuscontent {text-align: center;}
  .abouttext {margin-left:20%; margin-right:20%;}
