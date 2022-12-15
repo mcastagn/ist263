@@ -27,7 +27,7 @@ a:hover {color:green;}
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Rubik&display=swap');
 footer {background-color: #00e600dd;}
 #parent1 {display:flex;flex-wrap:wrap;}
-#aip {flex:1; word-wrap: wrap;}
+#aip {flex:1; word-wrap: wrap; Margin-right:10px;}
 #thumbnails {Flex:1; padding-top:10px; margin:auto;}
 #slideshow {flex:1; padding: 10px; background-color: #00e600dd; border-radius: 1em;}
 #slideimages {flex:flex; max-width:100;}
