@@ -51,12 +51,14 @@ footer {text-align: center;}
 .btn:hover{background:green;}
 #stairT:hover {background:#ffffff;}
 
-#stairT, #bathT, #showT, #kitchT, #ramT {cursor: pointer; border: 4px solid #00e600dd;}
+#stairT, #bathT, #showT, #kitchT, #ramT {cursor: pointer; border: 4px solid #00e600dd; max-width:100%;}
 #stairT:hover {border-color: #ffffff;} 
 #bathT:hover {border-color: #ffffff;} 
 #showT:hover {border-color: #ffffff;} 
 #kitchT:hover {border-color: #ffffff;} 
 #ramT:hover {border-color: #ffffff;}
 .imgcontainer {clear:both;}
+hr {height:3px; border:none;background-color:#00e600dd;}
+
 
 
