@@ -30,7 +30,7 @@ footer {background-color: #00e600dd;}
 #aip {flex:1; word-wrap: wrap;}
 #thumbnails {Flex:1; padding-top:10px; margin:auto;}
 #slideshow {flex:1; padding: 10px; background-color: #00e600dd; border-radius: 1em;}
-#slideimages {flex:flex; max-width:50%;}
+#slideimages {flex:flex; max-width:100;}
 #bath, #show, #kitch, #ram {display:none; margin:0 auto;}
 @media only screen and (max-width:530px) {body #slideshow {display:block;}}
 main {word-wrap: break-word;}
